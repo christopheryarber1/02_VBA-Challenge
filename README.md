@@ -6,7 +6,10 @@ Encountered Difficulties in v1 of executing script due to lack of a progress ind
 
 Attenpted multiple smaller batches to ensure that the script wasn't failing completely, and then finally was able to execute the VBA script against the entire file of ~2.2M records across 3 worksheets. Approximate runtime is as follows: 
 
-Worksheet 1: 797K Records @ 00:06:48 approx (HH:MM:SS) 
+Worksheet 1: 797K Records @ 00:06:48 approx (HH:MM:SS)
+
 Worksheet 2: 760K Records @ 00:06:08 approx (HH:MM:SS) 
+
 Worksheet 3: 705K Records @ 00:05:45 approx (HH:MM:SS) 
+
 Total Runtime: 2.2 M Records @ 00:18:49 total (HH:MM:SS) 
